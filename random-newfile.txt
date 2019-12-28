@@ -1,5 +1,0 @@
-sensitive key = adfafsadfsdfafdfasdfasdf;
-
-password = asdfasfdsfadfsafsdl
-
-base key = asdfasdfsfds
